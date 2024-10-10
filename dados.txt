@@ -1,0 +1,10 @@
+Dados do aluno
+
+-Primeiro Nome: Gabriel Rodrigues Urquiza
+-Profissão: Designer Grafico
+-Cidade: Uruguaiana/RS
+-O que faz nas horas vaga: Jogar Games
+-Feedback sobre o curso Qualidade de Software: O curso e maravilhoso
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é muito boa
+
+Obrigado!!!
